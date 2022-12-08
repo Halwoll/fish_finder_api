@@ -10,8 +10,8 @@ public static class FishService
   {
     Fishes = new List<Fish>
     {
-      new Fish { Id = 1, Name = "Trout", Freshwater = false },
-      new Fish { Id = 1, Name = "Grayling", Freshwater = true }
+      new Fish { Id = 1, Name = "Clownfish", Freshwater = false },
+      new Fish { Id = 2, Name = "Guppy", Freshwater = true }
     };
   }
   public static List<Fish> GetAll() => Fishes;

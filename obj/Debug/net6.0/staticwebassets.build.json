@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4cyl46kVsnRplrv59T8kTAGDZ/9fJTUgFi6INN2PJVw=",
+  "Source": "fish_identifier_api",
+  "BasePath": "_content/fish_identifier_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
